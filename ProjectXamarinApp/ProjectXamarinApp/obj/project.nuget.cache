@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wXbodaOn5L/67suUMtbOCmqgwPTvbCD1XZWb6UN41du+jMeA8dJLYFFE61wvzWqVl3fdKebFpvc6G7ShGoPmWw==",
+  "dgSpecHash": "A3wV1f5G0HswsXbVweE6c8Igym2fignyhnQGkxlyjg1Kkqenty6c+0jzZqH9PlnCNUcjsANhLlj1UTj4pjDpcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ano emangi\\source\\repos3\\xamarin\\project-xamarin\\ProjectXamarinApp\\ProjectXamarinApp\\ProjectXamarinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ano emangi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ano emangi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ano emangi\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\ano emangi\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\ano emangi\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
