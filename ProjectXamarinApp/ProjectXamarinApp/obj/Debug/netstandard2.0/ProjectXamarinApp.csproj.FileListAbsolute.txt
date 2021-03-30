@@ -1,0 +1,17 @@
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.csprojAssemblyReference.cache
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\Views\DetailViews\InfoScreen1.xaml.g.cs
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\Views\Menu\Dashboard.xaml.g.cs
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.AssemblyInfoInputs.cache
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.AssemblyInfo.cs
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\bin\Debug\netstandard2.0\ProjectXamarinApp.deps.json
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\bin\Debug\netstandard2.0\ProjectXamarinApp.dll
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\bin\Debug\netstandard2.0\ref\ProjectXamarinApp.dll
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\bin\Debug\netstandard2.0\ProjectXamarinApp.pdb
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.dll
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ref\ProjectXamarinApp.dll
+C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.pdb
