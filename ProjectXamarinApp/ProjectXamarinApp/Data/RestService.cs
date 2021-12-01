@@ -1,8 +1,10 @@
 ﻿using Newtonsoft.Json;
+using ProjectXamarinApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ProjectXamarinApp.Data
 {

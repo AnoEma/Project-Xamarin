@@ -2413,29 +2413,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ano emangi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\arnoe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ano emangi\\source\\repos3\\xamarin\\project-xamarin\\ProjectXamarinApp\\ProjectXamarinApp.Android\\ProjectXamarinApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\arnoe\\source\\repos\\Project-Xamarin\\ProjectXamarinApp\\ProjectXamarinApp.Android\\ProjectXamarinApp.Android.csproj",
       "projectName": "ProjectXamarinApp.Android",
-      "projectPath": "C:\\Users\\ano emangi\\source\\repos3\\xamarin\\project-xamarin\\ProjectXamarinApp\\ProjectXamarinApp.Android\\ProjectXamarinApp.Android.csproj",
-      "packagesPath": "C:\\Users\\ano emangi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ano emangi\\source\\repos3\\xamarin\\project-xamarin\\ProjectXamarinApp\\ProjectXamarinApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\arnoe\\source\\repos\\Project-Xamarin\\ProjectXamarinApp\\ProjectXamarinApp.Android\\ProjectXamarinApp.Android.csproj",
+      "packagesPath": "C:\\Users\\arnoe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arnoe\\source\\repos\\Project-Xamarin\\ProjectXamarinApp\\ProjectXamarinApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ano emangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arnoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
@@ -2447,8 +2444,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\ano emangi\\source\\repos3\\xamarin\\project-xamarin\\ProjectXamarinApp\\ProjectXamarinApp\\ProjectXamarinApp.csproj": {
-              "projectPath": "C:\\Users\\ano emangi\\source\\repos3\\xamarin\\project-xamarin\\ProjectXamarinApp\\ProjectXamarinApp\\ProjectXamarinApp.csproj"
+            "C:\\Users\\arnoe\\source\\repos\\Project-Xamarin\\ProjectXamarinApp\\ProjectXamarinApp\\ProjectXamarinApp.csproj": {
+              "projectPath": "C:\\Users\\arnoe\\source\\repos\\Project-Xamarin\\ProjectXamarinApp\\ProjectXamarinApp\\ProjectXamarinApp.csproj"
             }
           }
         }

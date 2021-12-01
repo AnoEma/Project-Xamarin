@@ -15,3 +15,16 @@ C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\Proj
 C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.dll
 C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ref\ProjectXamarinApp.dll
 C:\Users\ano emangi\source\repos3\xamarin\project-xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.pdb
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.csproj.AssemblyReference.cache
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\Views\DetailViews\InfoScreen1.xaml.g.cs
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\Views\Menu\Dashboard.xaml.g.cs
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.AssemblyInfoInputs.cache
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.AssemblyInfo.cs
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.dll
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ref\ProjectXamarinApp.dll
+C:\Users\arnoe\source\repos\Project-Xamarin\ProjectXamarinApp\ProjectXamarinApp\obj\Debug\netstandard2.0\ProjectXamarinApp.pdb
